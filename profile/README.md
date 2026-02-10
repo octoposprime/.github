@@ -2,7 +2,6 @@
 
 > Modern, scalable software ecosystem based on microservice architecture
 
-[![Website](https://img.shields.io/badge/Website-octoposprime.com-blue)](http://octoposprime.com)
 [![Email](https://img.shields.io/badge/Email-info@octoposprime.com-red)](mailto:info@octoposprime.com)
 [![Location](https://img.shields.io/badge/Location-USA-green)]()
 [![Followers](https://img.shields.io/badge/Followers-81-orange)]()
